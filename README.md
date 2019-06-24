@@ -14,8 +14,10 @@ Uma lista com material para estudo de paradigma funcional.
 
 ### Programação funcional
 
+- [Plain Functional Programming](https://www.youtube.com/watch?v=YXDm3WHZT5g)
 - [GOTO 2018 • Functional Programming in 40 Minutes • Russ Olsen](https://www.youtube.com/watch?v=0if71HOyVjY)
 - [Functional Programming is Terrible!](https://www.youtube.com/watch?v=hzf3hTUKk8U)
+- [Functional Programming & Haskell - Computerphile](https://www.youtube.com/watch?v=LnX3B9oaKzw)
 
 ## Específico para F#
 
