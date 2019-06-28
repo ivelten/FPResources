@@ -25,3 +25,22 @@ Uma lista com material para estudo de paradigma funcional.
 - [Design patterns funcionais](https://fsharpforfunandprofit.com/fppatterns/)
 - [DDD com F#](https://fsharpforfunandprofit.com/ddd/)
 - [Railway Oriented Programming](https://fsharpforfunandprofit.com/rop/)
+
+## Pluralsight, Functional Programming
+- [Functional Programming: The Big Picture](https://app.pluralsight.com/library/courses/functional-programming-big-picture/table-of-contents)
+- [Applying Functional Principles in C#](https://app.pluralsight.com/library/courses/csharp-applying-functional-principles/table-of-contents)
+
+## Pluralsight, Haskell
+- [Haskell Fundamentals 1](https://app.pluralsight.com/library/courses/haskell-fundamentals-part1/table-of-contents)
+- [Haskell Fundamentals 2](https://app.pluralsight.com/library/courses/haskell-fundamentals-part1/table-of-contents)
+
+## Pluralsight, F#
+Se quiser aprender F# pelo Pluralsight, assista os vídeos nessa ordem:
+
+- [F# Jumpstart](https://app.pluralsight.com/library/courses/fsharp-jumpstart/table-of-contents)
+- [F# Fundamentals](https://app.pluralsight.com/library/courses/fsharp-fundamentals/table-of-contents)
+- [F# Functional Data Structures](https://app.pluralsight.com/library/courses/fsharp-functional-data-structures/table-of-contents)
+- [Unit Testing with F#](https://app.pluralsight.com/library/courses/fsharp-unit-testing/table-of-contents)
+- [A Functional Architecture with F#](https://app.pluralsight.com/library/courses/functional-architecture-fsharp/table-of-contents)
+- [Type Driven Development with F#](https://app.pluralsight.com/library/courses/fsharp-type-driven-development/table-of-contents)
+- [Accessing Data with Type Providers](https://app.pluralsight.com/library/courses/accessing-data-fsharp-type-providers/table-of-contents)
